@@ -85,7 +85,7 @@
                 <div class="links">
                     <a href="#">Graphics</a>
                     <a href="#">Web</a>
-                    <a href="https://github.com/cspaceio">Github</a>
+                    <a href="https://github.com/cspaceio/repositories/">Github</a>
                 </div>
             </div>
         </div>
