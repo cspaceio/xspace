@@ -12,6 +12,66 @@
 
 @section('main')
 
-	Lorem ipsum dolor sit amet, consectetur adipisicing elit. Possimus nobis sit veritatis cumque! Placeat voluptate aut pariatur! Nihil molestiae quos explicabo dignissimos quam cupiditate sequi corporis eaque corrupti. Vel est consequatur cum voluptas atque, quasi sit autem labore natus. Facilis repudiandae nam suscipit unde saepe explicabo officia consequatur nesciunt, nobis quaerat odio, ipsam rem necessitatibus, ea voluptates. Veniam temporibus quos, eos sint pariatur explicabo at amet laboriosam impedit nobis eaque, quas, deserunt magnam eius quia nesciunt! Rerum labore veniam optio ea, non modi, molestiae porro ab tempore illo, temporibus autem quam eius voluptatem nostrum repellendus voluptas nihil atque officiis accusamus incidunt? Provident odit quo asperiores illum quaerat, eum nulla eius dolorum soluta adipisci distinctio ea eligendi cum fugit porro voluptas!
+
+
+	<section class="sectionOne">
+		<div class="columns is-gapless">
+
+
+
+			<div class="column is-4">
+
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque tempore, ipsum eius magnam distinctio? Quo nulla, illo accusamus minus obcaecati, totam quas, quidem nostrum dolores similique cupiditate numquam, aliquid natus ex sequi perferendis labore unde iusto!
+
+			</div>
+
+
+
+			<div class="column is-4">
+
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque tempore, ipsum eius magnam distinctio? Quo nulla, illo accusamus minus obcaecati, totam quas, quidem nostrum dolores similique cupiditate numquam, aliquid natus ex sequi perferendis labore unde iusto!
+
+			</div>
+
+
+
+			<div class="column is-4">
+
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque tempore, ipsum eius magnam distinctio? Quo nulla, illo accusamus minus obcaecati, totam quas, quidem nostrum dolores similique cupiditate numquam, aliquid natus ex sequi perferendis labore unde iusto!
+
+			</div>
+
+
+
+		</div>
+	</section>
+
+
+
+	<section class="sectionTwo">
+		<div class="columns">
+
+
+
+			<div class="column is-8">
+				
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est ipsa odit ullam, velit at consequatur, quas temporibus ea nesciunt suscipit ipsam molestiae ab ut officia atque quasi, hic alias eos nostrum quia placeat repellat. Est delectus maiores, error sapiente consequatur possimus, inventore laborum, itaque ex voluptatum illo, dolore. Odio impedit ad, nesciunt recusandae, delectus earum ipsum perspiciatis ducimus rerum distinctio, sunt aspernatur architecto explicabo! Quis quaerat nihil aliquam obcaecati excepturi modi atque, dolore distinctio magnam illum, officia voluptatem necessitatibus ex porro repellendus praesentium alias soluta odio at eligendi nesciunt, perspiciatis corporis ratione? Aspernatur ipsum debitis ad quaerat libero, vel, natus mollitia, nemo facere quis suscipit quas. Deserunt molestiae, a! Perspiciatis quaerat iure voluptatem consequatur tempora accusamus eius quae quia laborum.
+
+			</div>
+
+
+
+			<div class="column is-4">
+				
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum, dolorem. Veniam maxime voluptate fugit itaque placeat aut quibusdam ad, sapiente tenetur, ea, dolores doloribus officiis vel unde perspiciatis nihil fugiat reprehenderit, facilis hic! Dolorem consectetur optio dolorum nostrum odit, maxime fugit qui. 
+
+			</div>
+
+
+
+		</div>
+	</section>
+
+
 
 @endsection
