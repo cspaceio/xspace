@@ -17,5 +17,5 @@ Route::get('/', function () {
 
 
 // Myung Ki -> Site /
-Route::get('site', '');
+Route::get('site', 'SiteController@index');
 
