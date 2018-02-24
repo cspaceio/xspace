@@ -67,7 +67,7 @@
 
 			<div class="column is-4">
 				
-				" Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum, dolorem. Veniam maxime voluptate fugit itaque placeat aut quibusdam ad, sapiente tenetur, ea, dolores doloribus officiis vel unde perspiciatis nihil fugiat reprehenderit, facilis hic! Dolorem consectetur optio dolorum nostrum odit, maxime fugit qui. "" 
+				@component('components.news-list')@endcomponent
 
 			</div>
 
@@ -85,7 +85,7 @@
 
 
 
-			<div class="column is-4">
+			<div class="column is-6">
 				
 				@component('components.article-list')@endcomponent
 
@@ -93,17 +93,9 @@
 
 
 
-			<div class="column is-4">
+			<div class="column is-6">
 				
 				@component('components.posts-list')@endcomponent
-				
-			</div>
-
-
-
-			<div class="column is-4">
-				
-				@component('components.news-list')@endcomponent
 				
 			</div>
 
