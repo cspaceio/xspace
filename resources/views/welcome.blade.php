@@ -78,26 +78,17 @@
             @endif
 
             <div class="content">
-                <div class="title m-b-md">
-<<<<<<< HEAD
-                    Myung Ki
-                </div>
 
-                <div class="links">
-                    <a href="https://laracasts.com">APPS</a>
-                    <a href="https://laravel-news.com">DEV</a>
-                    <a href="https://forge.laravel.com">WEB</a>
-                    <a href="https://github.com/cspaceio/repositories">GitHub</a>
-=======
-                   Myung Ki
-                </div>
+                <div class="title m-b-md">
+                    Myung Ki
+                </div>            
 
                 <div class="links">
                     <a href="#">Graphics</a>
                     <a href="#">Web</a>
                     <a href="https://github.com/cspaceio/repositories/">Github</a>
->>>>>>> 97e60d68ebbcda76fcb122763876dbb56a8e20ca
                 </div>
+            
             </div>
         </div>
     </body>

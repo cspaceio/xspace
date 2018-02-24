@@ -22,7 +22,7 @@
 
 			<div class="column is-4">
 
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Doloremque tempore, ipsum eius magnam distinctio? Quo nulla, illo accusamus minus obcaecati, totam quas, quidem nostrum dolores similique cupiditate numquam, aliquid natus ex sequi perferendis labore unde iusto!
+				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta animi voluptas voluptates, pariatur neque expedita reiciendis, ut? Accusamus minima odio nulla. Nobis cupiditate provident vel animi eos, porro, reiciendis dolores, dolor molestiae voluptas quaerat. Ratione, quos?
 
 			</div>
 
