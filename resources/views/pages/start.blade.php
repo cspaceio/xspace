@@ -58,7 +58,7 @@
 
 			<div class="column is-8">
 
-				<h4 class="is-size-4">Welcom Page</h4>
+				<h4 class="is-size-4">24 - 02 - 18 Latest Update To Myung Ki - COM</h4>
 				<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae sapiente pariatur, nostrum consequuntur natus assumenda hic alias, doloribus iure, aut quisquam labore accusamus aliquam quasi commodi quas dignissimos, placeat sit! Eligendi iste facere nihil excepturi ipsa aut laboriosam explicabo itaque ullam maxime alias aliquid illo saepe error minima fugiat, ducimus consequatur, impedit iusto quisquam. Facere ea, sed cumque ullam, minima inventore deleniti nulla iste iusto, at animi, rerum obcaecati. Tenetur, debitis, necessitatibus voluptatibus ullam, quos, quaerat aliquam a eos dolorum unde cumque! Suscipit perferendis quas non est ex reprehenderit quis, impedit quam labore aperiam atque, vero ullam in ducimus cum natus? Facilis voluptas ducimus enim unde dignissimos nulla. Assumenda est, recusandae error voluptatem ipsa officia natus quidem autem quibusdam minima.</p>
 
 			</div>
