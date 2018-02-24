@@ -22,7 +22,7 @@
 
 			<div class="column is-4">
 
-				Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dicta animi voluptas voluptates, pariatur neque expedita reiciendis, ut? Accusamus minima odio nulla. Nobis cupiditate provident vel animi eos, porro, reiciendis dolores, dolor molestiae voluptas quaerat. Ratione, quos?
+				Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cupiditate, perferendis explicabo, animi mollitia aliquam qui ipsam similique eum recusandae laboriosam neque pariatur alias odit. Consequatur voluptatum eaque molestias optio aliquid quod doloremque, odit deleniti velit labore?
 
 			</div>
 
